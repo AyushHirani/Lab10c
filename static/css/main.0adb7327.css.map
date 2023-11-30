@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.0adb7327.css","mappings":"AAAA,KACE,YAAa,CACb,MACF,CAEA,WAEE,wBAA8B,CAG9B,kBAAmB,CADnB,cAAe,CADf,YAGF","sources":["styles.css"],"sourcesContent":[".App {\n  display: flex;\n  gap: 8%;\n}\n\n.how,\n.diff {\n  background-color: antiquewhite;\n  padding: 20px;\n  margin-left: 5%;\n  border-radius: 10px;\n}\n"],"names":[],"sourceRoot":""}
